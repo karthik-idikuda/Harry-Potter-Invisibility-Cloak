@@ -1,0 +1,10 @@
+# Harry Potter Invisibility Cloak - Requirements
+# Install these packages to run the invisibility cloak project
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# tkinter is included with Python, no separate installation needed
+# Optional: For better performance (install separately if needed)
+# opencv-contrib-python>=4.8.0
